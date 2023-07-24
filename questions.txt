@@ -1,6 +1,6 @@
 Question 1: What is your favorite color? Blueish
 
-Question 2: What is your favorite programming language?
+Question 2: What is your favorite programming language? Javascript I guess
 
 Question 3: What is your favorite food?
 
